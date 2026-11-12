@@ -15,8 +15,14 @@ Built on NVIDIA Switchyard through an independently maintained core fork. Curren
 
 | Project | What it explores |
 | :--- | :--- |
+| [Multi-agent Framework Comparison](https://github.com/eugenn/nooa-demo) | The same agent pipeline implemented with NOOA, Microsoft Agent Framework, LangChain, and CrewAI. |
+| [Switchyard Core Fork](https://github.com/eugenn/Switchyard) | My independently maintained fork of NVIDIA Switchyard, used by Switchyard Desktop for model routing. |
 | [Geolocation Simulator](https://github.com/eugenn/geolocate-detections-simulator) | A browser-based lab for geolocating detections. |
 | [Video Decoding Benchmark](https://github.com/eugenn/video-decoders-benchmark) | GPU video decoding in Python: torchcodec, decord, PyAV, and PyNvVideoCodec. |
+
+## Open-source contributions
+
+**[TorchCodec](https://github.com/meta-pytorch/torchcodec)** — contributed a [merged fix for frame indexing](https://github.com/meta-pytorch/torchcodec/pull/1209) in videos with a non-zero start time when using approximate seeking.
 
 **Working with** · Python · PyTorch · TypeScript · React · Rust · Tauri
 
