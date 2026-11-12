@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner.png" alt="eugenn — AI tooling, computer vision, and video systems" width="100%">
-</p>
+# eugenn
 
 <p align="center">
   I build tools for routing AI requests, exploring computer vision,<br>
