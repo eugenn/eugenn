@@ -11,6 +11,13 @@
   <a href="https://github.com/eugenn/switchyard-desktop">Currently building: Switchyard Desktop</a>
 </p>
 
+<p align="center"><sub>OPEN-SOURCE CONTRIBUTIONS</sub></p>
+
+<p align="center">
+  <a href="https://github.com/NVIDIA-NeMo/Switchyard/pulls?q=is%3Apr+author%3Aeugenn"><img src="assets/nvidia-contributor.svg" alt="Open-source contributions to NVIDIA Switchyard" width="220" height="56"></a> &nbsp;
+  <a href="https://github.com/meta-pytorch/torchcodec/pulls?q=is%3Apr+author%3Aeugenn"><img src="assets/meta-contributor.svg" alt="Open-source contributions to Meta TorchCodec" width="220" height="56"></a>
+</p>
+
 <br>
 
 ## Toolbox
@@ -84,6 +91,9 @@ Comparing GPU video decoding with torchcodec, decord, PyAV, and PyNvVideoCodec.
 </table>
 
 ## Open-source contributions
+
+**[NVIDIA Switchyard ↗](https://github.com/NVIDIA-NeMo/Switchyard)**  
+Contributed merged changes for [agent identity in routing logs](https://github.com/NVIDIA-NeMo/Switchyard/pull/1002), [task classifier history](https://github.com/NVIDIA-NeMo/Switchyard/pull/610), and [redacting upstream response bodies from tracing](https://github.com/NVIDIA-NeMo/Switchyard/pull/611).
 
 **[TorchCodec ↗](https://github.com/meta-pytorch/torchcodec)**  
 Contributed a [merged fix for frame indexing](https://github.com/meta-pytorch/torchcodec/pull/1209) in videos with a non-zero start time when using approximate seeking.
