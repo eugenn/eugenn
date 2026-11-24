@@ -11,11 +11,18 @@
   <a href="https://github.com/eugenn/switchyard-desktop">Currently building: Switchyard Desktop</a>
 </p>
 
-<p align="center"><sub>OPEN-SOURCE CONTRIBUTIONS</sub></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+    <img src="assets/activity-light.svg" alt="1,133 contributions in the last 12 months (1,030 in private repos); 619 since October, more than the 11 months before combined" width="720">
+  </picture>
+</p>
 
 <p align="center">
-  <a href="https://github.com/NVIDIA-NeMo/Switchyard/pulls?q=is%3Apr+author%3Aeugenn"><img src="assets/nvidia-contributor.svg" alt="Open-source contributions to NVIDIA Switchyard" width="220" height="56"></a> &nbsp;
-  <a href="https://github.com/meta-pytorch/torchcodec/pulls?q=is%3Apr+author%3Aeugenn"><img src="assets/meta-contributor.svg" alt="Open-source contributions to Meta TorchCodec" width="220" height="56"></a>
+  <sub>MERGED UPSTREAM</sub><br>
+  <a href="https://github.com/NVIDIA-NeMo/Switchyard/pulls?q=is%3Apr+author%3Aeugenn+is%3Amerged">NVIDIA Switchyard</a> ×3 &nbsp;·&nbsp;
+  <a href="https://github.com/meta-pytorch/torchcodec/pull/1209">Meta TorchCodec</a> &nbsp;·&nbsp;
+  <a href="https://github.com/junhoyeo/tokscale/pull/545">tokscale</a>
 </p>
 
 <br>
@@ -157,6 +164,9 @@ Contributed merged changes for [agent identity in routing logs](https://github.c
 
 **[TorchCodec ↗](https://github.com/meta-pytorch/torchcodec)**  
 Contributed a [merged fix for frame indexing](https://github.com/meta-pytorch/torchcodec/pull/1209) in videos with a non-zero start time when using approximate seeking.
+
+**[tokscale ↗](https://github.com/junhoyeo/tokscale)**  
+Contributed a [merged `qr` command](https://github.com/junhoyeo/tokscale/pull/545) that transfers the API token to mobile apps, the link between tokscale and [TokStats](https://tokstats.ai).
 
 ---
 
