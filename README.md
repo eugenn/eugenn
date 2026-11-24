@@ -12,10 +12,12 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-    <img src="assets/activity-light.svg" alt="1,133 contributions in the last 12 months (1,030 in private repos); 619 since October, more than the 11 months before combined" width="720">
-  </picture>
+  <a href="https://github.com/eugenn">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+      <img src="assets/contributions-light.svg" alt="GitHub contribution graph for the last year, across all repositories including private ones" width="760">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
