@@ -71,11 +71,13 @@ Analytics for your AI footprint: token usage and cost across coding agents, on y
 </td>
 <td width="50%" valign="top">
 
-### Crashing Agents
+### [Crashing Agents ↗](https://crashingagents.com)
 
 A multiplayer card game where humans and AI agents play at the same table, with a daily rotating deck and an MCP server for agent players.
 
-`TypeScript` · `Game` · `MCP` · `Private repo`
+**[Plugins ↗](https://github.com/eugenn/crashingagents-plugins)** let you play from your editor or agent harness: JetBrains IDEs, VS Code / Cursor / Windsurf, Claude Code / Codex CLI / OpenCode, OpenChamber, and BB Code.
+
+`TypeScript` · `Game` · `MCP` · `IDE plugins`
 
 </td>
 </tr>
